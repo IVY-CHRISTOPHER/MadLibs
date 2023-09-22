@@ -1,0 +1,19 @@
+
+.color-primary-0 { color: #18ABCD }	/* Main Primary color */
+.color-primary-1 { color: #67C8DF }
+.color-primary-2 { color: #3DB8D5 }
+.color-primary-3 { color: #039FC4 }
+.color-primary-4 { color: #026C85 }
+
+
+
+.Form {
+    font-size: x-large;
+    background-image: image-url("../assets/bowlingBackground.jpg");
+}
+
+.Form input {
+    background-color: #026C85;
+    color: #18ABCD;
+    font-size: x-large;
+}
